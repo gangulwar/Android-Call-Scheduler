@@ -1,4 +1,4 @@
-# Android-Call-Scheduler
+<h1 align="center">Call Scheduler</h1>
 
 ![Screenshot](media/Screenshot.png)
 
@@ -8,4 +8,6 @@ Discovered that Android introduced changes starting from Android 10, which restr
 
 Nonetheless, the app remains fully operational on Android versions preceding Android 10.
 
-[![Download APK](vectors/apk_icon.png)](app/apk/Call Scheduler.apk)
+# Download APK
+
+<a href="https://raw.githubusercontent.com/gangulwar/Android-Call-Scheduler/main/apk/Call%20Scheduler.apk"><img src="vectors/apk_icon.png" alt="Download APK" width="100"></a>
