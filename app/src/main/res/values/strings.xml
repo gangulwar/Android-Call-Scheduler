@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Final</string>
+    <string name="app_name">Call Scheduler</string>
     <string name="welcome_message">Hello!</string>
     <string name="contact">Select Contact</string>
     <string name="time">Select Time</string>
     <string name="schedule">Schedule Call</string>
+    <string name="selectContact">Please Select a Contact</string>
+    <string name="selectTime">Select Time</string>
 </resources>

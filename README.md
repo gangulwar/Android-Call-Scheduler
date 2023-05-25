@@ -7,3 +7,5 @@ Discovered that Android introduced changes starting from Android 10, which restr
 ["Privacy changes in Android 10"](https://developer.android.com/about/versions/10/privacy/changes#background-activity-starts)
 
 Nonetheless, the app remains fully operational on Android versions preceding Android 10.
+
+[![Download APK](vectors/apk_icon.png)](app/apk/Call Scheduler.apk)
